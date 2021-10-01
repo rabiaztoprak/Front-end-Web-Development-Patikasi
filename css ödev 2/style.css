@@ -1,0 +1,44 @@
+*{
+    text-align: center;
+}
+
+.container{
+    background-color: #EEEEEE;
+    width: 1200px;
+    margin: 50px;
+   
+}
+
+.container-1{
+    background-color: #7EE5DA;
+    width: 300px;
+    margin: 0px;
+    padding: 10px;
+    float: left;
+}
+
+.container-2{
+    background-color: #70CCC2;
+    width: 200px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+.container-3{
+    background-color: #62B3AA;
+    width: 500px;
+    margin: 0px;
+    padding: 0px;
+    float: left;
+}
+
+ul {
+    
+
+    margin: 0;
+
+    padding: 0;
+
+    overflow: hidden;
+} 
